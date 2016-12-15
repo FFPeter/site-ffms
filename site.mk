@@ -29,7 +29,8 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	gluon-ssid-changer \
 	gluon-config-mode-show-mac \
-	gluon-rfkill-disable
+	gluon-rfkill-disable \
+	gluon-authorized-keys
 
 GLUON_PRIORITY ?= 3
 GLUON_LANGS ?= en de
