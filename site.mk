@@ -30,7 +30,8 @@ GLUON_SITE_PACKAGES := \
 	gluon-ssid-changer \
 	gluon-config-mode-show-mac \
 	gluon-rfkill-disable \
-	gluon-authorized-keys
+	gluon-authorized-keys \
+	gluon-quickfix
 
 GLUON_PRIORITY ?= 3
 GLUON_LANGS ?= en de

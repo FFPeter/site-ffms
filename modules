@@ -1,4 +1,4 @@
-GLUON_SITE_FEEDS='ffpb ffrl ffms'
+GLUON_SITE_FEEDS='ffpb ffrl ffms eulen'
 
 PACKAGES_FFPB_REPO=http://git.c3pb.de/freifunk-pb/ffho-packages.git
 PACKAGES_FFPB_COMMIT=2b92e12de39cf0bbc6726e81ab84144177adca3d
@@ -9,3 +9,8 @@ PACKAGES_FFRL_BRANCH=Branch_v2016.1.x
 
 PACKAGES_FFMS_REPO=https://github.com/FreiFunkMuenster/packages-ffms.git
 PACKAGES_FFMS_COMMIT=6a779100fc8e8ece22838c6fdf7cf139bd0a5423
+
+PACKAGES_EULEN_REPO=https://github.com/eulenfunk/packages.git
+PACKAGES_EULEN_COMMIT=f3c001be57820f76f580df2110ef7791e4c34e39
+PACKAGES_EULEN_BRANCH=v2016.2
+
