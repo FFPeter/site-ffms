@@ -18,14 +18,12 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-wifi-config \
 	gluon-mesh-batman-adv-15 \
 	gluon-mesh-vpn-tunneldigger \
-	gluon-next-node \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
 	haveged \
 	iptables \
 	gluon-tunneldigger-watchdog \
-	gluon-migrate-vpn \
 	iwinfo \
 	gluon-ssid-changer \
 	gluon-config-mode-show-mac \

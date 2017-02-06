@@ -1,7 +1,4 @@
-GLUON_SITE_FEEDS='ffpb ffrl ffms'
-
-PACKAGES_FFPB_REPO=http://git.c3pb.de/freifunk-pb/ffho-packages.git
-PACKAGES_FFPB_COMMIT=2b92e12de39cf0bbc6726e81ab84144177adca3d
+GLUON_SITE_FEEDS='ffrl ffms openwrt gluon routing luci'
 
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
 PACKAGES_FFRL_COMMIT=c6a6fd5ff2954495d8b6feae4094805d206917fc
@@ -9,3 +6,18 @@ PACKAGES_FFRL_BRANCH=Branch_v2016.1.x
 
 PACKAGES_FFMS_REPO=https://github.com/FreiFunkMuenster/packages-ffms.git
 PACKAGES_FFMS_COMMIT=6a779100fc8e8ece22838c6fdf7cf139bd0a5423
+
+LEDE_REPO=git://git.lede-project.org/source.git
+LEDE_COMMIT=b9a408c2b49ccfa0e906bda00ef77f4002e401fd
+
+PACKAGES_OPENWRT_REPO=git://github.com/openwrt/packages.git
+PACKAGES_OPENWRT_COMMIT=ee211f94ec292f7ec3d563fcbc147359b6cf8290
+
+PACKAGES_GLUON_REPO=git://github.com/freifunk-gluon/packages.git
+PACKAGES_GLUON_COMMIT=485186ace270564393b464bb4ff07686df31cd96
+
+PACKAGES_ROUTING_REPO=git://github.com/openwrt-routing/packages.git
+PACKAGES_ROUTING_COMMIT=d848d49d2443448b147c564c2dd8f64433b5fb9c
+
+PACKAGES_LUCI_REPO=git://github.com/openwrt/luci.git
+PACKAGES_LUCI_COMMIT=d7328360632d7fbf5fd4006b4172a9fe9861d838
